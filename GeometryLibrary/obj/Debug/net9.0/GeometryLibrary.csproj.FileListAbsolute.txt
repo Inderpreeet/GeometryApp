@@ -1,0 +1,11 @@
+C:\Users\inder\GeometryApp\GeometryLibrary\bin\Debug\net9.0\GeometryLibrary.deps.json
+C:\Users\inder\GeometryApp\GeometryLibrary\bin\Debug\net9.0\GeometryLibrary.dll
+C:\Users\inder\GeometryApp\GeometryLibrary\bin\Debug\net9.0\GeometryLibrary.pdb
+C:\Users\inder\GeometryApp\GeometryLibrary\obj\Debug\net9.0\GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inder\GeometryApp\GeometryLibrary\obj\Debug\net9.0\GeometryLibrary.AssemblyInfoInputs.cache
+C:\Users\inder\GeometryApp\GeometryLibrary\obj\Debug\net9.0\GeometryLibrary.AssemblyInfo.cs
+C:\Users\inder\GeometryApp\GeometryLibrary\obj\Debug\net9.0\GeometryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\inder\GeometryApp\GeometryLibrary\obj\Debug\net9.0\GeometryLibrary.dll
+C:\Users\inder\GeometryApp\GeometryLibrary\obj\Debug\net9.0\refint\GeometryLibrary.dll
+C:\Users\inder\GeometryApp\GeometryLibrary\obj\Debug\net9.0\GeometryLibrary.pdb
+C:\Users\inder\GeometryApp\GeometryLibrary\obj\Debug\net9.0\ref\GeometryLibrary.dll
