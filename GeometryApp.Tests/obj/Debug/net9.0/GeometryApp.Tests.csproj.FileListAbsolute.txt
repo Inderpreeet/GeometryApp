@@ -169,3 +169,4 @@ C:\Users\inder\GeometryApp\GeometryApp.Tests\obj\Debug\net9.0\refint\GeometryApp
 C:\Users\inder\GeometryApp\GeometryApp.Tests\obj\Debug\net9.0\GeometryApp.Tests.pdb
 C:\Users\inder\GeometryApp\GeometryApp.Tests\obj\Debug\net9.0\GeometryApp.Tests.genruntimeconfig.cache
 C:\Users\inder\GeometryApp\GeometryApp.Tests\obj\Debug\net9.0\ref\GeometryApp.Tests.dll
+C:\Users\inder\GeometryApp\GeometryApp.Tests\obj\Debug\net9.0\GeometryApp.Tests.sourcelink.json

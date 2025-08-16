@@ -9,3 +9,4 @@ C:\Users\inder\GeometryApp\GeometryLibrary\obj\Debug\net9.0\GeometryLibrary.dll
 C:\Users\inder\GeometryApp\GeometryLibrary\obj\Debug\net9.0\refint\GeometryLibrary.dll
 C:\Users\inder\GeometryApp\GeometryLibrary\obj\Debug\net9.0\GeometryLibrary.pdb
 C:\Users\inder\GeometryApp\GeometryLibrary\obj\Debug\net9.0\ref\GeometryLibrary.dll
+C:\Users\inder\GeometryApp\GeometryLibrary\obj\Debug\net9.0\GeometryLibrary.sourcelink.json

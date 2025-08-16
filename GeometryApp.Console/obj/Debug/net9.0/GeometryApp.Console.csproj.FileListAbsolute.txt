@@ -29,3 +29,4 @@ C:\Users\inder\GeometryApp\GeometryApp.Console\obj\Debug\net9.0\refint\GeometryA
 C:\Users\inder\GeometryApp\GeometryApp.Console\obj\Debug\net9.0\GeometryApp.Console.pdb
 C:\Users\inder\GeometryApp\GeometryApp.Console\obj\Debug\net9.0\GeometryApp.Console.genruntimeconfig.cache
 C:\Users\inder\GeometryApp\GeometryApp.Console\obj\Debug\net9.0\ref\GeometryApp.Console.dll
+C:\Users\inder\GeometryApp\GeometryApp.Console\obj\Debug\net9.0\GeometryApp.Console.sourcelink.json
